@@ -30,3 +30,5 @@ console.log(isPowerOfTwoBitwise(1)); // true
 console.log(isPowerOfTwoBitwise(2)); // true
 console.log(isPowerOfTwoBitwise(3)); // false
 console.log(isPowerOfTwoBitwise(4)); // true
+
+// Big-O = O(1)
