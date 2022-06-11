@@ -10,7 +10,7 @@ function linearSearch(arr, target) {
 
 }
 
-let arr = [-4, 6, 3, 2, 9, 7, 2];
+const arr = [-4, 6, 3, 2, 9, 7, 2];
 
 console.log(linearSearch(arr, 2));  // 3
 console.log(linearSearch(arr, 9));  // 4

@@ -19,7 +19,7 @@ function search(arr, target, leftIndex, rightIndex) {
     }
 }
 
-let arr = [-5, 2, 4, 6, 10];
+const arr = [-5, 2, 4, 6, 10];
 
 console.log(recursiveBinarySearch(arr, 10)); // 4
 console.log(recursiveBinarySearch(arr, 6));  // 3

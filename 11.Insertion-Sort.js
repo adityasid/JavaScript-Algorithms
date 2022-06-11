@@ -12,7 +12,7 @@ function insertionSort(arr) {
 
 }
 
-let arr = [8, 20, -2, 4, -6];
+const arr = [8, 20, -2, 4, -6];
 
 insertionSort(arr);
 
